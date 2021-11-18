@@ -3,7 +3,7 @@ package exporter
 import (
 	"github.com/prometheus/common/log"
 
-	"github.com/mnadeem/volume_exporter/disk"
+	"github.com/sercanacar/volume_exporter/disk"
 	"github.com/prometheus/client_golang/prometheus"
 	"github.com/prometheus/common/version"
 )
