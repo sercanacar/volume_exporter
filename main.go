@@ -9,7 +9,6 @@ import (
 
 	"github.com/sercanacar/volume_exporter/exporter"
 	"github.com/prometheus/client_golang/prometheus/promhttp"
-	log "github.com/sirupsen/logrus"
 	"github.com/prometheus/common/version"
 )
 
