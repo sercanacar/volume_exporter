@@ -1,8 +1,6 @@
 package exporter
 
 import (
-	log "github.com/sirupsen/logrus"
-
 	"github.com/sercanacar/volume_exporter/disk"
 	"github.com/prometheus/client_golang/prometheus"
 	"github.com/prometheus/common/version"
